@@ -58,13 +58,13 @@ This project implements a machine learning pipeline to predict whether an indivi
 
 ## 📈 Results
 
-| Model              | CV Accuracy | CV Std | CV F1 Score | Test Accuracy | Test F1 Score |
-|--------------------|-------------|--------|-------------|----------------|----------------|
-| Logistic Regression| 0.8223      | 0.0045 | 0.6125      | 0.8271         | 0.6189         |
-| Decision Tree      | 0.8150      | 0.0050 | 0.5900      | 0.8200         | 0.6000         |
-| Naive Bayes        | 0.7985      | 0.0029 | 0.4593      | 0.7989         | 0.4453         |
+| Model              | CV Accuracy | CV Std  | CV F1 Score | Test Accuracy | Test F1 Score |
+|--------------------|-------------|---------|-------------|----------------|----------------|
+| Logistic Regression| 0.8202      | 0.0047  | 0.5602      | 0.8211         | 0.5488         |
+| Decision Tree      | 0.8463      | 0.0021  | 0.6331      | 0.8517         | 0.6390         |
+| Naive Bayes        | 0.7985      | 0.0029  | 0.4593      | 0.7989         | 0.4453         |
 
-> 🏆 **Best Model**: Logistic Regression (Test Accuracy: **82.71%**)
+> 🏆 **Best Model**: Decision Tree (Test Accuracy: **85.17%**)
 
 ---
 
